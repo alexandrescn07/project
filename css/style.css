@@ -1,0 +1,23 @@
+*{
+  color: white;
+}
+body {
+    background-image: url(../imagem/ceu.jpeg);
+    height: 100%;
+    width: 100%;
+}
+
+.t1 {
+  text-align: center;
+  text-decoration: dashed;
+}
+
+.t2 {
+  text-align: center;
+  
+}
+
+.lt {
+  text-align: center;
+}
+ 
